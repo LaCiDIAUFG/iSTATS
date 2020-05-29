@@ -14,7 +14,7 @@ You can install by R with command `install.packages('iSTATS')` or you can use RS
 
 ### Install iSTATS from Github
 First install devtools package with the command `install.packages("devtools")`.
-After install `library(devtools)`, you can install iSTATS with the command `install_github("vitor-mendes-iq/iSTATS")`.
+After install `library(devtools)`, you can install iSTATS with the command `install_github("LaCiDIAUFG/iSTATS")`.
 
 ## Run iSTATS
 After install iSTATS, you must load and run the package with the commands  `library(iSTATS)` and `iSTATS()`, so it will open in the web browser.
