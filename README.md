@@ -9,7 +9,7 @@ There are 2 ways to install iSTATS, fisrt one is on CRAN (The Comprehensive R Ar
 You can install by R with command `install.packages('iSTATS')` or you can use RStudio tool as in the figure below:
 
 
-![Alt ou título da imagem](https://github.com/vitor-mendes-iq/iSTATS/blob/master/rstudio_install.jpg)
+![Alt ou título da imagem](https://github.com/LaCiDIAUFG/iSTATS/blob/master/rstudio_install.jpg)
 
 
 ### Install iSTATS from Github
