@@ -1,6 +1,6 @@
 # iSTATS
 ## Intro
-A package developed in R using shiny dashbord, iSTATS (interactive STAtisTical Spectroscopy) have a GUI platform where user can analize NMR data. From the construction of the matrix, going through a pre-treatment of the data to the application of STOCSY methods, which are used in the study of metabolomics, and among other areas whose characterization and relationship between the molecules are the object of study in NMR technology.
+A package developed in R using shiny dashbord, iSTATS (interactive STAtisTical Spectroscopy) have a GUI platform where user can analize NMR data 1D. From the construction of the matrix, going through a pre-treatment of the data to the application of STOCSY methods, which are used in the study of metabolomics, and among other areas whose characterization and relationship between the molecules are the object of study in NMR technology.
 
 ## Install iSTATS
 There are 2 ways to install iSTATS, fisrt one is on CRAN (The Comprehensive R Archive Network) and another is from here github.
