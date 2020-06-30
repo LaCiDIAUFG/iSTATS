@@ -24,6 +24,7 @@ In Data menu is possible import NMR data in `.csv` , `.txt`,and `.RData`.
 
 ### import_csv
 When importing NMR data in `.csv` format, they must be in accordance with the figure below:
+![This is the formate of each sample file to import in .csv. Chemical Shift and intensity separate with comma. ](https://github.com/LaCiDIAUFG/iSTATS/blob/master/import_csv.pdf)
 
 
 
