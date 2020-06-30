@@ -16,5 +16,21 @@ You can install by R with command `install.packages('iSTATS')` or you can use RS
 First install devtools package with the command `install.packages("devtools")`.
 After install `library(devtools)`, you can install iSTATS with the command `install_github("LaCiDIAUFG/iSTATS")`.
 
-## Run iSTATS
+# Run iSTATS
 After install iSTATS, you must load and run the package with the commands  `library(iSTATS)` and `iSTATS()`, so it will open in the web browser.
+
+## import 
+In Data menu is possible import NMR data in `.csv` , `.txt`,and `.RData`.
+
+### import_csv
+When importing NMR data in `.csv` format, they must be in accordance with the figure below:
+
+
+
+
+### import_Rdata
+
+
+
+### import_Brukerfile
+
