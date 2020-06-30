@@ -30,8 +30,9 @@ When importing NMR data in `.csv` format, they must be in accordance with the fi
 
 
 ### import_Rdata
-
-
+When importing NMR data in `.RData` format, they must be in accordance with the figure below:
+![This is the formate of all samples file to import in .RData.](https://github.com/LaCiDIAUFG/iSTATS/blob/master/rdata.jpg)
 
 ### import_Brukerfile
+This section import a file that can be make in TopSpin with command ` convbin2asc` on each sample and after import on iSTATS choosing each sample you need.
 
