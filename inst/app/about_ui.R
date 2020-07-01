@@ -8,7 +8,7 @@
                     br(),
                     tags$b("Or in github page"
                     ),
-                    tags$a(href="https://github.com/vitor-mendes-iq/iSTATS/issues", "Click here!")
+                    tags$a(href="https://github.com/LaCiDIAUFG/iSTATS/issues", "Click here!")
 
 
                   )
